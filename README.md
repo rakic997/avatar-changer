@@ -1,7 +1,7 @@
 ### React challange
 
 ### Preview
-![Thumbnail1](assets/preview.gif)
+![Thumbnail1](https://github.com/rakic997/avatar-changer/blob/main/src/assets/preview.gif)
 
 ### Challange description
 You'll be building a simple react component: an avatar picker. The user clicks on the avatar to open a popover which allows the user to choose another avatar from the list. 
